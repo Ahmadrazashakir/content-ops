@@ -39,8 +39,8 @@
             "type": "Link"
         },
         {
-            "type": "Button",
-            "label": "Contact me",
+            "type": "Link",
+            "label": "See Tutorials",
             "altText": "",
             "url": "/",
             "showIcon": false,
@@ -50,8 +50,8 @@
             "elementId": ""
         },
         {
-            "type": "Link",
-            "label": "See Tutorials",
+            "type": "Button",
+            "label": "Contact me",
             "altText": "",
             "url": "/",
             "showIcon": false,
