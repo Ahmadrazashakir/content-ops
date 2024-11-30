@@ -16,6 +16,15 @@ sections:
       data-driven solutions
     actions:
       - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: '/https://www.linkedin.com/in/ahmad-raza-382700238/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
         altText: GitHub
         url: '/https://github.com/Ahmadrazashakir'
         showIcon: true
