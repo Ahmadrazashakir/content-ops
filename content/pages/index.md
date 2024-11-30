@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      I am a Embedded System Designer and a Machine Learning Enthusiast. I
+      specialize in developing embedded systems, integrating real-time
+      processing, and hardware-software co-design, combined with expertise in
+      applying machine learning to edge devices for intelligent automation and
+      data-driven solutions
+
     actions:
       - label: Get started
         altText: ''
