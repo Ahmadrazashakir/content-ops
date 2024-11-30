@@ -15,15 +15,6 @@ sections:
       applying machine learning to edge devices for intelligent automation and
       data-driven solutions
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
