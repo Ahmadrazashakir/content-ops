@@ -8,13 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Computer Architecture and Machine Learning Enthusiast
-    text: >+
-      I am a Embedded System Designer and a Machine Learning Enthusiast. I
-      specialize in developing embedded systems, integrating real-time
+    text: >
+      I am an Embedded System Designer and a Machine Learning Enthusiast. I
+      specialize in developing Embedded Systems, integrating real-time
       processing, and hardware-software co-design, combined with expertise in
       applying machine learning to edge devices for intelligent automation and
       data-driven solutions
-
     actions:
       - label: Get started
         altText: ''
