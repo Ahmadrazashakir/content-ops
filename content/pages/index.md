@@ -7,7 +7,7 @@ sections:
       text: My name is Ahmad
       color: text-dark
       type: TitleBlock
-    subtitle: Comp Architecture and Machine Learning
+    subtitle: Computer Architecture and Machine Learning Enthusiast
     text: >+
       I am a Embedded System Designer and a Machine Learning Enthusiast. I
       specialize in developing embedded systems, integrating real-time
