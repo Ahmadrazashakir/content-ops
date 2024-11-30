@@ -32,6 +32,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: '/https://www.instagram.com/ah.mad.raza/'
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
