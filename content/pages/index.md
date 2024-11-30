@@ -14,7 +14,15 @@ sections:
       processing, and hardware-software co-design, combined with expertise in
       applying machine learning to edge devices for intelligent automation and
       data-driven solutions
-    actions: []
+    actions:
+      - type: Link
+        altText: GitHub
+        url: '/https://github.com/Ahmadrazashakir'
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
