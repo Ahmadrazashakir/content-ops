@@ -40,7 +40,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Contact me",
             "altText": "",
             "url": "/",
             "showIcon": false,
