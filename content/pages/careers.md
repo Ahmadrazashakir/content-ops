@@ -36,6 +36,44 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: National University of Sciences and Technology
+        tagline: Feature 1
+        subtitle: Islamabad - Pakistan
+        text: "*   ⚡Bachelor of Electrical Engineering student with a fervent interest in Embedded Design and Machine Learning\n\n*   ⚡Engaged in computer architecture research, particularly hardware accelerators.\n\n*   ⚡Enthusiastic about learning and embracing feedback.\n\n*   ⚡Actively involved in \U0001F389extracurricular activities including TABA Youth Chapter Nust 2022-present, Nust 2022 orientation.\U0001F304\U0001F3DE️\U0001F3E2\n\n"
+        image:
+          type: ImageBlock
+          url: /images/national-university-logo.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: University
+      color: text-dark
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
