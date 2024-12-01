@@ -42,7 +42,7 @@ sections:
         title: National University of Sciences and Technology
         tagline: Feature 1
         subtitle: Islamabad - Pakistan
-        text: "⚡Bachelor of Electrical Engineering student with a fervent interest in Embedded Design and Machine Learning\n\n⚡Engaged in computer architecture research, particularly hardware accelerators.\n\n⚡Enthusiastic about learning and embracing feedback.\n\n⚡Proficient in architecture design and machine learning, actively contributing to varied projects as a hobby with my studies\n\n⚡Actively involved in \U0001F389extracurricular activities including TABA Youth Chapter Nust 2022-present, Nust 2022 orientation.\U0001F304\U0001F3DE️\U0001F3E2\n"
+        text: "*   ⚡Bachelor of Electrical Engineering student with a fervent interest in Embedded Design and Machine Learning\n\n*   ⚡Engaged in computer architecture research, particularly hardware accelerators.\n\n*   ⚡Enthusiastic about learning and embracing feedback.\n\n*   ⚡Proficient in architecture design and machine learning, actively contributing to varied projects as a hobby with my studies\n\n*   ⚡Actively involved in \U0001F389extracurricular activities including TABA Youth Chapter Nust 2022-present, Nust 2022 orientation.\U0001F304\U0001F3DE️\U0001F3E2\n\n"
         image:
           type: ImageBlock
           url: /images/national-university-logo.png
