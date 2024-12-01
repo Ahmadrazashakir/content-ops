@@ -71,7 +71,9 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: Section with a form subtitle
+  - subtitle: >-
+      Got a project blueprint, bug report, or just an overly complicated email?
+      Send it my way—I'll read it, eventually!
     text: |
       .
     media:
