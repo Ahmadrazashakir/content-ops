@@ -26,7 +26,7 @@ sections:
         elementId: ''
       - type: Link
         altText: GitHub
-        url: '/https://github.com/Ahmadrazashakir'
+        url: 'https://github.com/Ahmadrazashakir'
         showIcon: true
         icon: github
         iconPosition: left
