@@ -3,7 +3,7 @@ title: Education
 slug: careers
 sections:
   - title:
-      text: Bachelor's in Electrical Engineering
+      text: Education
       color: text-dark
       styles:
         self:
