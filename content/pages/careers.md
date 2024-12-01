@@ -48,7 +48,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/national-university-logo.png
           altText: Featured item
           styles:
             self:
