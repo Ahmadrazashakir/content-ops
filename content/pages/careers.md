@@ -10,12 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Bachelor's in Electrical
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: "\U0001F393 Enthusiastic Electrical Engineering student at NUST, Islamabad, specializing in Computer Architecture, Microprocessor Systems, and Machine Learning. Expected graduation in June 2025 with a Cumulative GPA of 3.12 over 6 semesters. \U0001F4DA Diverse coursework includes C/C++,  verilog, system verilog, embedded C, Python, and proficiency in PyTorch, Keras, and OpenCV. \U0001F680 Engaged in impactful research and hands-on projects, combining technical prowess with an aptitude for innovation. Committed to academic excellence and poised for a dynamic career in technology.\n\n"
     actions:
       - label: See open positions
         url: /
