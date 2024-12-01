@@ -41,7 +41,7 @@ sections:
       - type: FeaturedItem
         title: National University of Sciences and Technology
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: Islamabad - Pakistan
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
