@@ -18,7 +18,7 @@ sections:
       - type: Link
         label: LinkedIn
         altText: LinkedIn
-        url: '/https://www.linkedin.com/in/ahmad-raza-382700238/'
+        url: 'https://www.linkedin.com/in/ahmad-raza-382700238/'
         showIcon: true
         icon: linkedin
         iconPosition: left
