@@ -4,10 +4,10 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: My name is Ahmad
+      text: This is Ahmad
       color: text-dark
       type: TitleBlock
-    subtitle: Computer Architecture and Machine Learning Enthusiast
+    subtitle: A Computer Architecture and Machine Learning Enthusiast
     text: >
       I am an Embedded System Designer and a Machine Learning Enthusiast. I
       specialize in developing Embedded Systems, integrating real-time
@@ -42,7 +42,7 @@ sections:
         style: secondary
         elementId: ''
     media:
-      url: /images/main-hero.svg
+      url: /images/DSC_25222.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -117,7 +117,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: email
     badge:
       label: Contact Us
       color: text-primary
