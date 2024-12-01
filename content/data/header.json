@@ -24,17 +24,17 @@
             "elementId": ""
         },
         {
-            "label": "Experience",
-            "url": "/pricing",
+            "label": "Projects",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Projects",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Experience",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
