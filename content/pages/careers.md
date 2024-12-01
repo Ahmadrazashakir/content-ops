@@ -75,7 +75,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: University
       color: text-dark
 seo:
   metaTitle: Careers - Demo site
