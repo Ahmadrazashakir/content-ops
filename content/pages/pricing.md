@@ -1,15 +1,15 @@
 ---
-title: Pricing
+title: Experience
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: 'Oh, such empty.'
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Please wait as this section is under development
     plans:
       - title: Developers
         price: Free
