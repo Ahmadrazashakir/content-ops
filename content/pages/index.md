@@ -35,7 +35,7 @@ sections:
       - type: Link
         label: Instagram
         altText: Instagram
-        url: '/https://www.instagram.com/ah.mad.raza/'
+        url: 'https://www.instagram.com/ah.mad.raza/'
         showIcon: true
         icon: instagram
         iconPosition: left
