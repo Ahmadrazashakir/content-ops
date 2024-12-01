@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Please wait as this section still needs
+    subtitle: Please wait as this section is under development
     plans:
       - title: Developers
         price: Free
