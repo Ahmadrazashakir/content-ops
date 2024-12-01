@@ -35,7 +35,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/comp arch.jpg
+      url: /images/abstract-background.svg
   - type: CarouselSection
     items:
       - type: FeaturedItem
