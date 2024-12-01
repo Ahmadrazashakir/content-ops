@@ -51,9 +51,9 @@
         },
         {
             "type": "Button",
-            "label": "Contact me",
+            "label": "Email me",
             "altText": "",
-            "url": "/",
+            "url": "mailto:connectahmadraza@gmail.com?Subject=Hello!",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
