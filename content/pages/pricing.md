@@ -3,7 +3,7 @@ title: Experience
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: 'Oh, such empty.'
       color: text-dark
       styles:
         self:
