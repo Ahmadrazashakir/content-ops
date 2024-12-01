@@ -1,14 +1,14 @@
 ---
-title: Blog
+title: Projects
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Projects
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: section under construction
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
