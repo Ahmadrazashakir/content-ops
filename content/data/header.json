@@ -53,7 +53,7 @@
             "type": "Button",
             "label": "Contact me",
             "altText": "",
-            "url": "/",
+            "url": "mailto:connectahmadraza@gmail.com?Subject=Hello!",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
