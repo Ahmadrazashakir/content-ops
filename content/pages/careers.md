@@ -3,7 +3,7 @@ title: Education
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Bachelor's in Electrical Engineering
       color: text-dark
       styles:
         self:
