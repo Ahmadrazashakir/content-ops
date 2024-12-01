@@ -74,8 +74,7 @@ sections:
   - subtitle: >-
       Got a project blueprint, bug report, or just an overly complicated email?
       Send it my way—I'll read it, eventually!
-    text: |
-      .
+    text: ''
     media:
       fields:
         - name: name
