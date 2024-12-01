@@ -13,17 +13,28 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
             "label": "Home",
-            "url": "/pricing",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "label": "Projects",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Projects",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Experience",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -37,17 +48,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Experience",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         },
         {
             "type": "Button",
