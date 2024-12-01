@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Experience
 slug: pricing
 sections:
   - title:
