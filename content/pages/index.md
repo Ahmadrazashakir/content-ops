@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: My name is Ahmad
+      text: This is Ahmad
       color: text-dark
       type: TitleBlock
     subtitle: Computer Architecture and Machine Learning Enthusiast
