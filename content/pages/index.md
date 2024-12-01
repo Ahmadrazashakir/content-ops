@@ -18,7 +18,7 @@ sections:
       - type: Link
         label: LinkedIn
         altText: LinkedIn
-        url: '/https://www.linkedin.com/in/ahmad-raza-382700238/'
+        url: 'https://www.linkedin.com/in/ahmad-raza-382700238/'
         showIcon: true
         icon: linkedin
         iconPosition: left
@@ -26,7 +26,7 @@ sections:
         elementId: ''
       - type: Link
         altText: GitHub
-        url: '/https://github.com/Ahmadrazashakir'
+        url: 'https://github.com/Ahmadrazashakir'
         showIcon: true
         icon: github
         iconPosition: left
@@ -35,7 +35,7 @@ sections:
       - type: Link
         label: Instagram
         altText: Instagram
-        url: '/https://www.instagram.com/ah.mad.raza/'
+        url: 'https://www.instagram.com/ah.mad.raza/'
         showIcon: true
         icon: instagram
         iconPosition: left
